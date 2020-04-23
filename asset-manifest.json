@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/profusion/static/css/main.bf26ff25.chunk.css",
+    "main.js": "/profusion/static/js/main.abdc15b3.chunk.js",
+    "main.js.map": "/profusion/static/js/main.abdc15b3.chunk.js.map",
+    "runtime-main.js": "/profusion/static/js/runtime-main.c6e83c8a.js",
+    "runtime-main.js.map": "/profusion/static/js/runtime-main.c6e83c8a.js.map",
+    "static/js/2.0f9e70c4.chunk.js": "/profusion/static/js/2.0f9e70c4.chunk.js",
+    "static/js/2.0f9e70c4.chunk.js.map": "/profusion/static/js/2.0f9e70c4.chunk.js.map",
+    "index.html": "/profusion/index.html",
+    "precache-manifest.09f07b296b3988cd678cc3bb225319c2.js": "/profusion/precache-manifest.09f07b296b3988cd678cc3bb225319c2.js",
+    "service-worker.js": "/profusion/service-worker.js",
+    "static/css/main.bf26ff25.chunk.css.map": "/profusion/static/css/main.bf26ff25.chunk.css.map",
+    "static/js/2.0f9e70c4.chunk.js.LICENSE.txt": "/profusion/static/js/2.0f9e70c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6e83c8a.js",
+    "static/js/2.0f9e70c4.chunk.js",
+    "static/css/main.bf26ff25.chunk.css",
+    "static/js/main.abdc15b3.chunk.js"
+  ]
+}
